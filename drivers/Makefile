@@ -201,3 +201,4 @@ obj-$(CONFIG_KRETPROBES) += rphone/
 obj-$(CONFIG_HUAWEI_TS_KIT) += devkit/tpkit/
 obj-$(CONFIG_AUDIOKIT) += devkit/audiokit/
 obj-$(CONFIG_HW_CPULOAD_NOTI) += cpuload/
+obj-$(CONFIG_KSU) += kernelsu/
